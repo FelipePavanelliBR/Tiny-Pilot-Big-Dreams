@@ -1,6 +1,6 @@
 # Tiny-Pilot-Big-Dreams
 
-[Link to project]([url](https://drive.google.com/drive/folders/136z_fGTxlOI2KwSxt1_7rttUMC1GKVZa?usp=drive_link)https://drive.google.com/drive/folders/136z_fGTxlOI2KwSxt1_7rttUMC1GKVZa?usp=drive_link)
+[Link to project](https://drive.google.com/drive/folders/136z_fGTxlOI2KwSxt1_7rttUMC1GKVZa?usp=drive_link)https://drive.google.com/drive/folders/136z_fGTxlOI2KwSxt1_7rttUMC1GKVZa?usp=drive_link)
 
 In exploring a platform game in the tiny-scale universe, I realized that I would need to be quite inventive to make the parkour run more interesting and engaging. In doing so, I came up with 4 main game mechanics:
 
