@@ -1,5 +1,7 @@
 # Tiny-Pilot-Big-Dreams
 
+Tiny Pilot, Big Dreams is a parkour and exploration mini-game where the player controls a robot toy that comes to life through his kid’s dream of becoming an Airplane Pilot. 
+
 [Video demo](https://drive.google.com/file/d/1KCGXS3oT2Qw3f-kZIaiplU3Pi8lcprvL/view?usp=drive_link)
 
 
